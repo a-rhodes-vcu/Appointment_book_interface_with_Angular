@@ -22,3 +22,9 @@
 <h4>Appointments can be sorted</h4>
 
 ![image_6](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.58.26%20AM.png)
+
+<h4>Appointments can be edited</h4>
+
+![image_7](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2012.25.48%20PM.png)
+
+![image_8](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2012.26.14%20PM.png)
