@@ -14,3 +14,7 @@
 <h4>Appointments can be filtered by pet name, owner name, appointment notes, or appointment date </h4>
 
 ![image_4](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.56.17%20AM.png)
+
+<h4>Appointments can be deleted</h4>
+
+![image_5](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2012.17.29%20PM.png)
