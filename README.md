@@ -19,7 +19,7 @@
 
 ![image_5](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2012.17.29%20PM.png)
 
-(https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.58.26%20AM.png)
+![image_7](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.58.26%20AM.png)
 
 
 <h4>Appointments can be sorted</h4>
