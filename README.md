@@ -5,6 +5,8 @@
 
 ![image_1](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.54.59%20AM.png)
 
-<h4>Appointments are added via the form </h4>
+<h4>Appointments are added to the list via the form </h4>
 
 ![image_2](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.55.35%20AM.png)
+
+![image_3](https://github.com/a-rhodes-vcu/Appointment_book_interface_with_Angular/blob/master/images/Screen%20Shot%202020-09-07%20at%2011.55.43%20AM.png)
